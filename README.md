@@ -1,5 +1,5 @@
 # A Basic Gpredict .trsp Update
-These are basic updates to the Gpredict .trsp files, which store satellite transponder data.
+These are basic updates to the Gpredict .trsp files, which are the satellite transponder data files.
 The updates address annoyances such as inconsistente naming, important selection location in drop-down list, missing transponder files for satellites, etc.  
 
 The NOAA-HRPT folder is for HRPT to be the first selection in "Radio Control" for NOAA-15, NOAA-18, and NOAA-19 for those that work with HRPT more often than APT.  
