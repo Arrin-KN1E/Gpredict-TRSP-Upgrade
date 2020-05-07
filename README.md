@@ -50,14 +50,14 @@ CO-58: 28895
   
   
   
-### Where to put the files? 
+## Where to put the files? 
 These files are okay to use as drop and replace type files. This example is for Windows as I'm not sure about other systems.  
 Go to *C:\Users\ (YourUsername) \Gpredict\trsp*  
 (As always, have a backup of this folder in case something were to go wrong.)  
 After downloading and choosing what files you want to use, drop the files in the 'trsp' folder to replace the old ones and confirm the overwrite and your done!
 
 
-## General Information about this Project
+### General Information about this Project
 This is a simple update of the transponder files that Gpredict uses. These are fixes of some of the issues seen when using "Radio Control" in Gpredict.  
 This repo is the perfect way for making suggested file improvements and for new files to be added to the list.    
 
