@@ -52,8 +52,10 @@ CO-58: 28895
   
 ## Where to put the files? 
 These files are okay to use as drop and replace type files. This example is for Windows as I'm not sure about other systems.  
+
 Go to *C:\Users\ (YourUsername) \Gpredict\trsp*  
 (As always, have a backup of this folder in case something were to go wrong.)  
+
 After downloading and choosing what files you want to use, drop the files in the 'trsp' folder to replace the old ones and confirm the overwrite and your done!
 
 
