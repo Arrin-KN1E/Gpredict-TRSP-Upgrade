@@ -30,8 +30,8 @@ AO-91: 43017
 AO-92: 43137  
 FO-29: 24278  
 CO-58: 28895  
-
-
+  
+  
 
 ### Sats that now have good defaults:  
 These are satellites I previously did updates to, but now no longer needed, because the default transponder files are the same as I would do.   
@@ -47,10 +47,10 @@ Fengyun-C: 39260
 
 
 ###### Ham:
-AO-95: 43770
-SO-50: 27607
-DIWATA 2B (PO-101): 43678
-UO-11: 14781
+AO-95: 43770  
+SO-50: 27607  
+DIWATA 2B (PO-101): 43678  
+UO-11: 14781  
   
   
 ## Where to put the files? 
