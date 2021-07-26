@@ -33,7 +33,7 @@ CO-58: 28895
 
 
 
-#### Sats that now have good defaults:  
+### Sats that now have good defaults:  
 These are satellites I previously did updates to, but now no longer needed, because the default transponder files are the same as I would do.   
   
 ###### WX:  
@@ -56,7 +56,7 @@ UO-11: 14781
 ## Where to put the files? 
 These files are okay to use as drop and replace type files. You will need to do this after every transponder data update you do in Gpredict.   
 
-Go to *C:\Users\(Username)\Gpredict\trsp*  
+Go to *C:\Users\ (Username) \Gpredict\trsp*  
 (As always, have a backup of this folder in case something were to go wrong.)  
 
 After downloading and choosing what files you want to use, drop the files in the 'trsp' folder to replace the old ones and confirm the overwrite and your done!
