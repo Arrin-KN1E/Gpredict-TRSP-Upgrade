@@ -34,7 +34,7 @@ CO-58: 28895
   
 
 ### Sats that now have good defaults:  
-These are satellites I previously did updates to, but now no longer needed, because the default transponder files are the same as I would do.   
+These are satellites I previously did updates to, but now no longer include, because the default transponder files are the same as I would do.   
   
 ###### WX:  
 METOP-A: 29499   
@@ -63,5 +63,5 @@ After downloading and choosing what files you want to use, drop the files in the
 
 
 ## My comments about this Project
-This project is more of me sharing minor annoyance fixes. However, this repo is the perfect way for making suggested file improvements and for new files to be added to the list.
-The default transponder data is good and is updated all the time, but I prefer to organize it differently.
+This project is more of me sharing minor annoyance fixes. However, this repo is the perfect way for making suggested file improvements and for new files to be added to the list.  
+The default transponder data is being updated all the time, so sorry if any of these files become redundant.
