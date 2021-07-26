@@ -47,10 +47,10 @@ Fengyun-C: 39260
 
 
 ###### Ham:
-AO-95: 43770  
-SO-50: 27607 
-DIWATA 2B (PO-101): 43678  
-UO-11: 14781 
+AO-95: 43770
+SO-50: 27607
+DIWATA 2B (PO-101): 43678
+UO-11: 14781
   
   
 ## Where to put the files? 
