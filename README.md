@@ -60,6 +60,6 @@ Go to *C:\Users\(Username)\Gpredict\trsp*
 After downloading and choosing what files you want to use, drop the files in the 'trsp' folder to replace the old ones and confirm the overwrite and your done!
 
 
-### My comments about this Project
+## My comments about this Project
 This project is more of me sharing minor annoyance fixes. However, this repo is the perfect way for making suggested file improvements and for new files to be added to the list.
 The default transponder data is good and is updated all the time, but I prefer to organize it differently.
